@@ -1,0 +1,587 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Grandstander;
+}
+
+header {
+    width: 1223px;
+    height: 101px;
+    border-radius: 100px;
+    border: 2px solid #000000;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 35px;
+    left: 125px;
+}
+
+header a {
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32px;
+    text-decoration: none;
+    color: #000000;
+    font-family: "Grandstander", cursive;
+}
+
+header button {
+    border: none;
+    background: none;
+}
+
+.baby {
+    width: 219px;
+    height: 199px;
+}
+
+.sec1 {
+    background-image: url(/images/Group\ 70.png);
+    width: 100%;
+    background-size: cover;
+    height: 1200px;
+}
+
+.sec1 h1 {
+    width: 725.4414612032659px;
+    height: 303.9847996975735px;
+    font-family: Grandstander;
+    font-weight: 700;
+    transform: rotate(1.03deg);
+    font-style: Bold;
+    font-size: 128px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-shadow: 10px 4px 4px #00000040;
+    margin-left: 65px;
+    margin-top: -148px;
+}
+
+.sec1 p {
+    width: 534px;
+    height: 170px;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0%;
+    margin-left: 65px;
+}
+
+.drf {
+    width: 138.96209716796875px;
+    height: 157.61265563964844px;
+    opacity: 1;
+    border-width: 1px;
+    border: none;
+    margin-left: 510px;
+    margin-top: 178px;
+    position: relative;
+}
+
+.sec1 button {
+    width: 337px;
+    height: 100px;
+    border-width: 3px;
+    border-radius: 100px;
+    background-color: #F3CB60;
+    border: 3px solid #000000;
+    font-family: Grandstander;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 12%;
+    text-align: center;
+    color: #000000;
+    margin-left: 65px;
+    margin-top: -32px;
+}
+
+.drf2 {
+    width: 720px;
+    height: 611px;
+    margin-left: 643px;
+    margin-top: -598px;
+    position: relative;
+}
+
+.sec2 {
+    width: 100%;
+    height: 963px;
+    background-color: #DAEEFF;
+    margin-top: -280px;
+}
+
+.drf3 {
+    width: 364.9941677448611px;
+    height: 216.41712750198263px;
+    transform: rotate(-3.54 deg);
+    margin-left: 965px;
+    margin-top: -135px;
+}
+
+.sec2 h1 {
+    width: 1102px;
+    height: 89px;
+    margin-left: 405px;
+    margin-top: 24.55px;
+    font-family: Grandstander;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 96px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-shadow: 10px 4px 4px #00000040;
+
+}
+
+.drift img {
+    width: 966px;
+    height: 493px;
+    margin-left: 5px;
+    margin-top: -277px;
+    opacity: 1;
+    position: absolute;
+}
+
+.drift p {
+    width: 586.7861938476562px;
+    height: 272px;
+    margin-left: 90px;
+    top: 216px;
+    position: relative;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0%;
+
+
+}
+
+.drift2 p {
+    width: 562px;
+    height: 266px;
+    margin-left: 885px;
+    margin-top: -580px;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0%;
+    text-align: right;
+}
+
+.drift2 img {
+    width: 868px;
+    height: 409px;
+    margin-left: 600px;
+    margin-top: -67px;
+}
+
+.driftik {
+    display: flex;
+    gap: 42px;
+    margin-left: 90px;
+    margin-top: 291px;
+}
+
+.btnik {
+    width: 227px;
+    height: 67.35904693603516px;
+    border-radius: 100px;
+    border-width: 3px;
+    background-color: #F3CB60;
+    border: 3px solid #000000;
+    font-family: Grandstander;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 12%;
+    text-align: center;
+
+}
+
+.btn2 {
+    width: 227px;
+    height: 67.35904693603516px;
+    border-radius: 100px;
+    border-width: 3px;
+    background-color: #FFFFFF;
+    border: 3px solid #F3CB60;
+    font-family: Grandstander;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 12%;
+    text-align: center;
+
+}
+
+.sec3 {
+    width: 100%;
+    height: 1160px;
+    background-color: #FECDDC;
+    margin-top: -53px;
+}
+
+.sec3 h2 {
+    width: 581px;
+    height: 53px;
+    font-family: Grandstander;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 500px;
+    top: 81px;
+    position: relative;
+    text-shadow: 10px 4px 4px #00000040;
+
+}
+
+.babiku {
+    width: 345px;
+    height: 586px;
+    margin-top: 196px;
+    border-radius: 20px;
+    background-color: #DAEEFF;
+
+}
+
+.tatoDiv1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.babka {
+    width: 358px;
+    height: 200px;
+    margin-top: -85px;
+    margin-left: -5px;
+}
+
+.babka2 {
+    width: 361px;
+    height: 231px;
+    margin-top: -97px;
+}
+
+.babka3 {
+    width: 367px;
+    height: 210px;
+    margin-top: -97px;
+    margin-left: -11px;
+}
+
+.babiku h4 {
+
+    margin-top: 29px;
+    font-family: Grandstander;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 38px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.babkar {
+    width: 66px;
+    height: 81px;
+    left: 130px;
+    top: -47px;
+    position: relative;
+}
+
+.babkar2 {
+    width: 81px;
+    height: 83px;
+    position: relative;
+    top: -47px;
+    left: 130px;
+}
+
+.babkar3 {
+    width: 112px;
+    height: 82px;
+    position: relative;
+    left: 130px;
+    top: -47px;
+}
+
+.babiku p {
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: -21px;
+}
+
+.babiku button {
+    width: 54px;
+    height: 54px;
+    top: 61px;
+    left: -90px;
+    position: relative;
+    border-radius: 50%;
+    border-width: 2px;
+    background-color: #FECDDC;
+    border: 2px solid #000000;
+}
+
+.babkir {
+    width: 29.504236762614685px;
+    height: 18px;
+    opacity: 1;
+    border-width: 3px;
+    transform: rotate(0.97 deg);
+}
+
+.sec4 {
+    background-color: #DAEEFF;
+    width: 100%;
+    height: 809.6533203125px;
+    border-top-left-radius: 50% 80px;
+    border-top-right-radius: 50% 80px;
+    margin-top: -76px;
+}
+
+.tatoDiv2 button {
+    width: 217.5081519048036px;
+    height: 67.35904808541439px;
+    border-radius: 100px;
+    border: 3px solid #000000;
+    font-family: Grandstander;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 12%;
+    text-align: center;
+
+}
+
+.tatoDiv2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.buronok {
+    width: 768px;
+    height: 734.5540771484375px;
+    margin-left: 100px;
+}
+
+.baran h2 {
+    width: 706.315118590178px;
+    height: 204.69828624773626px;
+    transform: rotate(1.03deg);
+    font-family: Grandstander;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 96px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: right;
+    text-shadow: 10px 4px 4px #00000040;
+    margin-top: -650px;
+    margin-left: 650px;
+}
+
+.baran p {
+    width: 628px;
+    height: 189px;
+    margin-left: 850px;
+    margin-top: -175px;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0%;
+
+
+}
+
+.baranhik {
+    width: 100%;
+    height: 325px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foot1 {
+    width: 100%;
+    height: 296px;
+    background-color: #F3CB60;
+}
+
+.foot1 a {
+    width: 133px;
+    height: 120px;
+    text-decoration: none;
+    color: #000000;
+    font-family: Grandstander;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 12%;
+
+}
+
+.foot1 hr {
+    width: 0px;
+    height: 153px;
+
+    border-width: 2px;
+    border: 1px solid #000000;
+}
+
+.foot1 input {
+    width: 367.3377380371094px;
+    height: 60.10752868652344px;
+    border-radius: 14px;
+    border-width: 2px;
+    border: 2px solid #000000;
+    background-color: #FFFFFF;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #baafaf40;
+}
+
+.foot1 button {
+    width: 180.67019653320312px;
+    height: 60.10752868652344px;
+    border-radius: 14px;
+    opacity: 1;
+    border-width: 2px;
+    background-color: #000000;
+    border: 2px solid #FFFFFF;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #F3CB60;
+
+}
+
+.foot1 img {
+    width: 240px;
+    height: 218px;
+    margin-left: 200px;
+}
+
+.foot2 {
+    width: 100%;
+    height: 76px;
+    background-color: #000000;
+    margin-top: -80px;
+}
+
+.foot2 p {
+    width: 838px;
+    height: 24px;
+    font-family: Grandstander;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 12%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 300px;
+    top: 26px;
+    position: relative;
+}
+
+.sec5 {
+    width: 100%;
+    height: 670px;
+    background-color: #FECDDC;
+
+}
+
+.tatoDiv5 input {
+    width: 390px;
+    height: 66px;
+    background-color: #FFFFFF;
+    border: 2px solid #000000;
+    border-radius: 14px;
+    border-width: 2px;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    position: relative;
+    left: 126px;
+    top: 330px;
+}
+
+.tatoDiv5 button {
+    width: 241px;
+    height: 66px;
+    background-color: #F3CB60;
+    border: 2px solid #000000;
+    border-radius: 14px;
+    border-width: 2px;
+    font-family: Grandstander;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    position: relative;
+    margin-left: 150px;
+    top: 330px;
+}
